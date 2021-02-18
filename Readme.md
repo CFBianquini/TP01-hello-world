@@ -10,3 +10,9 @@ Correção de Erros e novas features
 Banco de Dados ? One Drive ? Pendrive ? Pastas com nomes diferentes
 
 DEMANDA MUITA ORGANIZAÇÃO **
+
+### Fluxo Simples quando **EU** alterei algo no projeto
+
+1.Realizar as açteraç~pes nescessárias
+2.Fazer Commit
+3.Fazer o push
